@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="airplane_mode_message">Airplane Mode On</string>
+    <string name="internet_service_disabled">Internet service is disabled</string>
+    <string name="search">Search</string>
+    <string name="search_dummy_text">Your Search is performed</string>
+</resources>
