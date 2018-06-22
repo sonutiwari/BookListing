@@ -13,9 +13,9 @@
         android:layout_width="@dimen/image_view_width"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:contentDescription="@string/book_image"
         android:scaleType="centerInside"
-        tools:src="@mipmap/ic_launcher"
-        android:contentDescription="@string/book_image" />
+        tools:src="@mipmap/ic_launcher" />
 
     <LinearLayout
         android:layout_width="0dp"
@@ -40,13 +40,13 @@
             android:id="@+id/author"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
             android:maxLines="1"
             android:textAllCaps="true"
             android:textColor="@color/textColorAuthor"
             android:textSize="@dimen/author_text_size"
-            android:layout_marginTop="@dimen/margin_small"
             tools:text="@string/sonu" />
 
     </LinearLayout>
