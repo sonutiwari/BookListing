@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="textColorAuthor">#80606060</color>
+    <color name="textColorBookTitle">#FF000000</color>
+    <color name="textColorCountryCode">#80606060</color>
+    <color name="textColorPrice">#80ba0b0b</color>
+
 </resources>

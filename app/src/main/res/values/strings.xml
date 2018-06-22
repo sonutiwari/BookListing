@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">Book Listing</string>
-    <string name="airplane_mode_message">Airplane Mode On</string>
-    <string name="internet_service_disabled">Internet service is disabled</string>
-    <string name="search">Search</string>
-    <string name="search_dummy_text">Your Search is performed</string>
+    <string name="search_button_name">search</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_books">No books found.</string>
+    <string name="search_view_hint">Enter a book title</string>
+    <string name="search_hint">Enter a title</string>
+    <string name="book_image">Book Image</string>
+    <string name="sonu">Sonu Tiwari</string>
+    <string name="pln">PLN</string>
 </resources>
